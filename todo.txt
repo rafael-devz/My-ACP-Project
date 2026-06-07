@@ -1,0 +1,18 @@
+# FOODIFY TODO LIST
+
+[x] view cart function
+[x] Check out function
+[x] Clear Function
+[x] explore menu function
+[x] navigations function
+[x] about win
+[x] menu win
+[x] gallery win
+[x] contact win
+[x] edit qty function
+[x] display cart function
+[x] confirm order function
+[x] cancel order function
+[x] checkout section incomplete
+    - Payment
+[x] Amount gcash Payment
