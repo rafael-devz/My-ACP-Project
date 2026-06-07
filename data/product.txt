@@ -1,0 +1,36 @@
+burger, The Meat Titan Burger, 120, burger.png
+burger, The Double Trouble Burger, 80, burger2.png
+burger, The Forest King Burger, 100, burger3.png
+burger, The Sunrise Beast, 150, burger4.png
+burger, The Double Drizzle, 200, burger5.png
+burger, The Classic Crunch, 130, burger6.png
+burger, The Drip King, 250, burger7.png
+burger, The Green Stack, 159, burger9.png
+burger, Crispy Craze Burger, 235, burger10.png
+burger, Twin Bites Burger, 240, burger11.png
+burger, Classic Supreme, 120, burger17.png
+burger, BBQ Bacon Melt, 299, burger16.png
+
+drink, Citrus Sunset Spritz, 80, drink1.png
+drink, Berry Citrus Fizz, 100, drink2.png
+drink, Midnight Berry, 150, drink3.png
+drink, Fresh Sunny Mango, 120, drink4.png
+drink, Frosty Berry Latte, 110, drink5.png
+drink, Blue Lagoon Lemonade, 120, drink6.png
+
+chicken, Glaze Chicken Wings, 120, chicken1.png
+chicken, Crispy Crave Chicken, 110, chicken2.png
+chicken, Herb Roasted Whole Chicken, 299, chicken3.png
+chicken, Flame Grilled Chicken, 189, chicken4.png
+chicken, Garlic Parmesan Wings, 179, chicken5.png
+chicken, Spicy Buffalo Wings, 159, chicken6.png
+chicken, Chicken Delight, 179, chicken8.png
+chicken, Bitezilla Chicken, 199, chicken9.png
+chicken, Chicken Craze, 169, chicken10.png
+
+pizza, Smoky Bite Pizza, 149, pizza1.png
+pizza, Cheesy Overload Pizza, 199, pizza2.png
+pizza, Pepperoni Bite Pizza, 209, pizza3.png
+pizza, Melted Madness Pizza, 150, pizza4.png
+pizza, Tomato Delight Pizza, 199, pizza6.png
+pizza, Cheezy Overload Pizza, 299, pizza7.png
