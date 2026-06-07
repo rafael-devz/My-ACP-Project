@@ -1,14 +1,11 @@
-2026-05-19 17:00 PM, rafraf, COD, 3, 1 x Pepperoni Bite Pizza | 1 x Glaze Chicken Wings | 1 x Spicy Buffalo Wings, 488
 2026-05-21 07:34 AM, user, Gcash, 2, 1 x The Forest King Burger | 1 x Crispy Crave Chicken, 210
 2026-05-21 07:39 AM, user, Gcash, 2, 1 x BBQ Bacon Melt | 1 x Tomato Delight Pizza, 498
 2026-05-24 16:42 PM, user, COD, 2, 1 x The Forest King Burger | 1 x The Double Trouble Burger, 180
-2026-05-24 16:44 PM, qwertz, COD, 2, 1 x The Meat Titan Burger | 1 x Herb Roasted Whole Chicken, 419
 2026-05-24 16:46 PM, user, Gcash, 4, 3 x The Forest King Burger | 1 x The Double Trouble Burger, 380
 2026-05-24 17:07 PM, user, COD, 2, 1 x The Forest King Burger | 1 x The Double Trouble Burger, 180
 2026-05-24 17:12 PM, user, COD, 3, 1 x The Double Trouble Burger | 1 x The Forest King Burger | 1 x Herb Roasted Whole Chicken, 479
 2026-05-25 09:08 AM, user, COD, 3, 2 x Crispy Crave Chicken | 1 x Herb Roasted Whole Chicken, 519
 2026-05-25 09:34 AM, user, COD, 2, 2 x The Forest King Burger, 200
-2026-05-25 10:13 AM, raf, Gcash, 1, 1 x Glaze Chicken Wings, 120
 2026-05-25 16:09 PM, user, COD, 3, 2 x The Double Trouble Burger | 1 x The Classic Crunch, 290
 2026-05-25 16:29 PM, user, Gcash, 3, 2 x Glaze Chicken Wings | 1 x Herb Roasted Whole Chicken, 539
 2026-05-25 17:27 PM, user, COD, 2, 1 x The Double Trouble Burger | 1 x The Forest King Burger, 180

@@ -1,5 +1,1 @@
 User, Repuser, user, user1234@gmail.com, user1234, 09123456789, Others
-John Rafael, Ortega, rafraf, rafrafortega@gmail.com, rafrafort, 09466407801, Male
-Qwerty, Lib, qwertz, qwertz@gmail.com, 12345678, 09876545674, Female
-Jesscian, Salanguit, liebag, liebag@gmail.com, akosijesscian24, 09480609198, Female
-Rafaeel, Ortega, raf, raf@gmail.com, 12345678, 09466407801, Male

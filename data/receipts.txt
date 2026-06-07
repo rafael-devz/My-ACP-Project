@@ -1,15 +1,4 @@
 ----------------------------------------
-Date/Time: 2026-05-19 17:00 PM
-Customer: rafraf
-Email: rafrafortega@gmail.com
-Contact: 09466407801
-Payment Method: COD
-Payment Info: lumbangan
-Items: 1 x Pepperoni Bite Pizza | 1 x Glaze Chicken Wings | 1 x Spicy Buffalo Wings
-Total Qty: 3
-Total: 488.00
-----------------------------------------
-----------------------------------------
 Date/Time: 2026-05-21 07:37 AM
 Customer: user
 Email: user1234@gmail.com
@@ -30,17 +19,6 @@ Payment Info: lumbangan
 Items: 1 x The Double Trouble Burger | 1 x The Forest King Burger
 Total Qty: 2
 Overall total: 180.00
-----------------------------------------
-----------------------------------------
-Date/Time: 2026-05-24 16:44 PM
-Customer: qwertz
-Email: qwertz@gmail.com
-Contact: 09876545674
-Payment Method: COD
-Payment Info: lumbangan
-Items: 1 x The Meat Titan Burger | 1 x Herb Roasted Whole Chicken
-Total Qty: 2
-Overall total: 419.00
 ----------------------------------------
 ----------------------------------------
 Date/Time: 2026-05-24 16:46 PM
@@ -96,17 +74,6 @@ Payment Info: lumbangan
 Items: 2 x The Forest King Burger
 Total Qty: 2
 Overall total: 200.00
-----------------------------------------
-----------------------------------------
-Date/Time: 2026-05-25 10:13 AM
-Customer: raf
-Email: raf@gmail.com
-Contact: 09466407801
-Payment Method: Gcash
-Payment Info: 09466407801
-Items: 1 x Glaze Chicken Wings
-Total Qty: 1
-Overall total: 120.00
 ----------------------------------------
 ----------------------------------------
 Date/Time: 2026-05-25 16:09 PM
